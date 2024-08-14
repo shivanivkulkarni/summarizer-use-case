@@ -1,0 +1,5 @@
+.venv
+.env
+qna_tests.csv
+__pycache__
+faiss_index
